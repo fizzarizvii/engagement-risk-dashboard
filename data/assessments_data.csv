@@ -1,0 +1,33 @@
+assessment_id,module_code,assessment_title,due_date,assessment_type,weight_percentage,students_enrolled,students_accessed_brief,students_not_accessed
+ASS0001,DA373,Research Methods Essay,2025-05-04,Essay,20,134,59,75
+ASS0002,PS196,Team Project Deliverable,2025-03-25,Presentation,30,122,59,63
+ASS0003,EN197,Reflective Portfolio,2025-03-24,Exam,30,115,100,15
+ASS0004,EN269,Literature Review,2025-05-16,Exam,30,67,45,22
+ASS0005,CS147,Literature Review,2025-04-09,Presentation,50,106,74,32
+ASS0006,BA266,Team Project Deliverable,2025-04-09,Essay,30,57,42,15
+ASS0007,EN215,Lab Practical Assessment,2025-04-22,Exam,40,93,38,55
+ASS0008,BA382,Team Project Deliverable,2025-05-04,Exam,15,90,79,11
+ASS0009,BA253,Research Methods Essay,2025-03-29,Essay,40,71,59,12
+ASS0010,EN162,Programming Coursework,2025-04-23,Essay,40,175,69,106
+ASS0011,PS113,Research Methods Essay,2025-04-23,Presentation,50,123,116,7
+ASS0012,BA253,Literature Review,2025-04-19,Presentation,15,163,84,79
+ASS0013,EN285,Data Analysis Project,2025-04-20,Presentation,15,125,65,60
+ASS0014,DA142,Research Proposal,2025-04-17,Exam,40,60,36,24
+ASS0015,BA281,Statistics Midterm Exam,2025-04-26,Presentation,30,49,18,31
+ASS0016,EN102,Research Methods Essay,2025-05-06,Project,15,100,81,19
+ASS0017,PS290,Team Project Deliverable,2025-04-09,Essay,20,86,37,49
+ASS0018,EN262,Final Examination,2025-04-08,Essay,40,173,156,17
+ASS0019,PS190,Data Analysis Project,2025-04-29,Presentation,10,130,83,47
+ASS0020,PS126,Reflective Portfolio,2025-04-03,Presentation,15,113,66,47
+ASS0021,BA293,Team Project Deliverable,2025-05-10,Essay,10,173,67,106
+ASS0022,DA369,Statistics Midterm Exam,2025-04-03,Exam,30,45,37,8
+ASS0023,BA258,Lab Practical Assessment,2025-05-01,Exam,10,81,66,15
+ASS0024,PS137,Team Project Deliverable,2025-03-24,Essay,10,128,60,68
+ASS0025,BA125,Data Analysis Project,2025-04-18,Presentation,50,128,89,39
+ASS0026,DA156,Team Project Deliverable,2025-05-13,Project,20,101,88,13
+ASS0027,BA215,Statistics Midterm Exam,2025-04-09,Essay,40,132,95,37
+ASS0028,PS143,Data Analysis Project,2025-04-07,Essay,20,132,54,78
+ASS0029,BA175,Group Presentation,2025-03-31,Exam,10,135,85,50
+ASS0030,DA216,Data Analysis Project,2025-05-02,Presentation,20,47,31,16
+ASS0031,BA250,Data Analysis Project,2025-03-26,Presentation,20,110,99,11
+ASS0032,DA217,Final Examination,2025-04-10,Exam,10,140,107,33

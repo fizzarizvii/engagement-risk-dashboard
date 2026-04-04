@@ -1,0 +1,249 @@
+intervention_id,student_id,intervention_date,intervention_type,reason,student_responded,response_time_hours,engagement_improved,attendance_before,attendance_after,grade_before,grade_after
+INT0001,STU0009,2025-02-18,SMS,No VLE Activity,True,118,True,71.36,75.48,51,71
+INT0002,STU0401,2024-12-30,Phone Call,Declining Grades,False,,False,74.03,72.18,57,53
+INT0003,STU0054,2025-02-04,Phone Call,Missed Deadline,False,,False,66.42,63.25,81,87
+INT0004,STU0329,2025-02-12,Email,No VLE Activity,False,,True,62.94,66.72,42,47
+INT0005,STU0384,2025-01-17,Email,No VLE Activity,False,,False,77.04,69.89,49,46
+INT0006,STU0205,2025-03-04,Phone Call,No VLE Activity,True,17,True,57.42,61.12,56,59
+INT0007,STU0072,2025-02-05,Email,Low Attendance,True,59,True,72.22,89.37,83,99
+INT0008,STU0219,2025-02-02,Phone Call,No VLE Activity,False,,False,90.56,89.32,74,66
+INT0009,STU0073,2025-03-04,SMS,Low Attendance,False,,False,61.48,65.34,38,43
+INT0010,STU0277,2025-03-02,SMS,Low Attendance,False,,False,71.42,72.87,66,69
+INT0011,STU0240,2025-03-09,Email,Declining Grades,False,,False,72.23,73.17,53,52
+INT0012,STU0496,2025-02-21,Phone Call,No VLE Activity,True,110,False,57.79,69.08,40,32
+INT0013,STU0242,2025-01-08,Phone Call,Missed Deadline,True,6,False,79.94,86.3,86,85
+INT0014,STU0011,2025-03-13,Email,No VLE Activity,True,67,True,49.37,54.53,52,64
+INT0015,STU0106,2025-01-22,SMS,Missed Deadline,False,,False,68.86,69.46,52,46
+INT0016,STU0053,2025-01-16,SMS,Declining Grades,True,145,True,60.29,76.49,23,43
+INT0017,STU0268,2025-02-12,Email,Missed Deadline,False,,False,78.16,82.91,81,75
+INT0018,STU0081,2025-02-08,SMS,Missed Deadline,True,36,False,65.21,73.79,40,47
+INT0019,STU0461,2025-03-03,SMS,Low Attendance,True,133,False,68.22,68.97,54,56
+INT0020,STU0392,2025-03-03,SMS,Declining Grades,False,,True,68.2,73.51,43,50
+INT0021,STU0328,2025-03-06,Email,Low Attendance,False,,False,64.92,65.21,70,63
+INT0022,STU0012,2025-02-12,Phone Call,No VLE Activity,False,,False,66.94,70.77,49,46
+INT0023,STU0379,2025-01-13,Phone Call,Declining Grades,True,60,False,66.44,68.66,71,71
+INT0024,STU0045,2025-03-22,Email,Low Attendance,True,121,True,67.03,81.91,52,66
+INT0025,STU0147,2025-02-14,In-Person Meeting,No VLE Activity,True,122,True,86.2,98.93,75,89
+INT0026,STU0296,2025-03-14,In-Person Meeting,No VLE Activity,False,,False,83.61,90.58,49,50
+INT0027,STU0457,2025-01-01,Email,Declining Grades,True,70,True,62.0,65.16,32,40
+INT0028,STU0396,2025-03-20,Phone Call,Low Attendance,False,,False,65.77,66.25,46,53
+INT0029,STU0051,2025-03-12,In-Person Meeting,No VLE Activity,True,120,True,44.07,47.34,29,47
+INT0030,STU0284,2025-01-10,SMS,No VLE Activity,True,135,True,53.3,58.74,38,45
+INT0031,STU0239,2025-01-26,Phone Call,No VLE Activity,True,75,False,99.26,97.16,82,81
+INT0032,STU0374,2024-12-27,Email,No VLE Activity,True,52,True,61.31,76.43,40,58
+INT0033,STU0426,2025-03-11,Email,Declining Grades,False,,False,80.75,75.88,37,43
+INT0034,STU0392,2025-03-03,Phone Call,Declining Grades,True,36,True,68.2,80.15,43,53
+INT0035,STU0345,2025-03-02,In-Person Meeting,Declining Grades,True,80,True,72.03,76.29,56,75
+INT0036,STU0358,2025-01-28,Phone Call,No VLE Activity,True,30,False,62.74,56.71,80,80
+INT0037,STU0001,2025-01-25,Phone Call,Missed Deadline,False,,False,68.98,68.01,37,35
+INT0038,STU0205,2025-01-29,Phone Call,Low Attendance,True,25,False,57.42,54.27,56,52
+INT0039,STU0315,2025-01-17,SMS,Missed Deadline,False,,True,64.03,70.12,48,67
+INT0040,STU0073,2025-01-18,SMS,Missed Deadline,True,126,True,61.48,66.03,38,45
+INT0041,STU0096,2025-01-02,In-Person Meeting,Declining Grades,True,47,True,63.19,76.9,43,58
+INT0042,STU0382,2025-01-22,Email,No VLE Activity,False,,False,68.26,64.84,38,33
+INT0043,STU0282,2024-12-26,Email,Low Attendance,False,,False,69.17,71.81,42,43
+INT0044,STU0018,2025-03-15,SMS,Missed Deadline,False,,False,65.97,67.37,58,57
+INT0045,STU0345,2025-02-15,SMS,Low Attendance,False,,False,72.03,68.6,56,54
+INT0046,STU0471,2025-03-15,Email,Declining Grades,True,102,True,70.33,78.42,49,68
+INT0047,STU0374,2025-01-22,Email,Missed Deadline,True,132,False,61.31,68.73,40,37
+INT0048,STU0358,2024-12-29,SMS,Low Attendance,False,,False,62.74,59.83,80,76
+INT0049,STU0175,2025-02-25,SMS,No VLE Activity,True,27,True,64.96,79.23,77,87
+INT0050,STU0320,2025-02-13,SMS,Low Attendance,True,134,True,41.29,57.36,31,48
+INT0051,STU0401,2025-02-17,SMS,No VLE Activity,False,,False,74.03,72.46,57,61
+INT0052,STU0159,2025-01-14,In-Person Meeting,Low Attendance,True,155,True,62.09,76.41,42,55
+INT0053,STU0316,2025-03-08,Phone Call,Missed Deadline,False,,True,85.66,90.56,80,97
+INT0054,STU0372,2024-12-25,SMS,No VLE Activity,True,64,False,61.23,64.0,64,60
+INT0055,STU0201,2025-01-12,SMS,Missed Deadline,False,,False,70.25,69.51,65,72
+INT0056,STU0070,2025-01-14,Email,Declining Grades,False,,False,57.37,49.66,55,59
+INT0057,STU0346,2025-03-22,Phone Call,Declining Grades,True,88,True,78.26,89.01,69,82
+INT0058,STU0172,2025-02-06,In-Person Meeting,Missed Deadline,True,112,True,71.85,81.26,75,84
+INT0059,STU0328,2025-01-12,Email,Missed Deadline,True,112,True,64.92,70.92,70,75
+INT0060,STU0366,2025-02-15,In-Person Meeting,Low Attendance,True,110,False,83.43,79.72,61,62
+INT0061,STU0106,2025-03-16,Phone Call,Low Attendance,False,,False,68.86,66.27,52,51
+INT0062,STU0154,2025-01-26,Email,Low Attendance,True,30,True,66.72,73.22,52,64
+INT0063,STU0287,2025-01-01,Email,Missed Deadline,True,19,True,69.95,84.12,41,46
+INT0064,STU0063,2025-03-09,SMS,Low Attendance,False,,False,64.35,66.78,41,38
+INT0065,STU0045,2025-01-08,Phone Call,Missed Deadline,False,,False,67.03,66.3,52,56
+INT0066,STU0125,2025-01-18,Phone Call,Missed Deadline,False,,False,78.41,77.03,51,49
+INT0067,STU0123,2025-02-27,Phone Call,Missed Deadline,False,,False,76.2,73.54,33,28
+INT0068,STU0018,2025-02-03,Phone Call,Missed Deadline,True,67,True,65.97,70.4,58,74
+INT0069,STU0013,2025-03-12,Email,Low Attendance,False,,False,90.05,87.34,66,73
+INT0070,STU0325,2025-01-29,Email,Low Attendance,False,,False,65.8,72.73,79,82
+INT0071,STU0157,2025-02-13,Phone Call,Missed Deadline,False,,True,81.01,87.09,73,87
+INT0072,STU0291,2025-01-07,In-Person Meeting,Low Attendance,True,131,True,88.63,100.0,76,86
+INT0073,STU0305,2025-01-29,Email,Missed Deadline,False,,False,66.54,68.74,56,63
+INT0074,STU0314,2025-02-14,Phone Call,Declining Grades,True,95,False,70.62,75.47,54,55
+INT0075,STU0062,2025-01-24,SMS,Missed Deadline,True,94,True,54.58,68.01,34,47
+INT0076,STU0131,2025-02-08,Email,No VLE Activity,True,55,True,66.4,80.91,48,60
+INT0077,STU0051,2025-01-23,SMS,Declining Grades,False,,False,44.07,46.05,29,35
+INT0078,STU0390,2025-03-20,Phone Call,Missed Deadline,True,32,True,82.94,88.84,93,100
+INT0079,STU0365,2025-01-02,Email,Missed Deadline,False,,False,79.62,77.67,49,50
+INT0080,STU0311,2025-03-09,SMS,Low Attendance,False,,False,74.86,69.1,44,39
+INT0081,STU0293,2025-01-16,Phone Call,Missed Deadline,True,6,True,64.93,73.49,77,96
+INT0082,STU0477,2025-01-12,SMS,Missed Deadline,True,119,True,54.77,67.41,44,52
+INT0083,STU0497,2025-01-05,In-Person Meeting,No VLE Activity,False,,True,55.52,64.13,37,43
+INT0084,STU0070,2025-03-18,Email,No VLE Activity,True,45,False,57.37,60.83,55,59
+INT0085,STU0251,2024-12-27,SMS,Declining Grades,False,,False,84.03,82.68,81,81
+INT0086,STU0282,2025-02-11,Email,No VLE Activity,False,,False,69.17,73.66,42,50
+INT0087,STU0073,2024-12-25,SMS,No VLE Activity,True,38,False,61.48,64.9,38,31
+INT0088,STU0451,2025-01-01,Email,Low Attendance,False,,False,67.38,68.4,42,36
+INT0089,STU0214,2025-03-09,Email,Declining Grades,True,152,True,85.63,100.0,77,87
+INT0090,STU0188,2025-01-05,Email,No VLE Activity,False,,False,71.04,75.85,44,43
+INT0091,STU0367,2025-02-08,In-Person Meeting,No VLE Activity,False,,False,69.82,75.18,50,58
+INT0092,STU0451,2025-01-12,Phone Call,Declining Grades,True,2,True,67.38,79.23,42,47
+INT0093,STU0054,2025-01-28,Phone Call,Missed Deadline,True,59,False,66.42,68.64,81,82
+INT0094,STU0481,2025-03-12,Phone Call,No VLE Activity,False,,False,71.48,72.17,44,41
+INT0095,STU0274,2024-12-23,In-Person Meeting,Missed Deadline,True,34,True,47.81,63.38,43,63
+INT0096,STU0266,2025-01-24,SMS,Low Attendance,True,156,True,71.27,88.5,49,60
+INT0097,STU0049,2025-01-30,Email,Low Attendance,False,,False,61.89,64.29,67,65
+INT0098,STU0237,2025-03-09,Email,No VLE Activity,True,59,False,79.14,71.32,75,72
+INT0099,STU0030,2025-02-10,SMS,Low Attendance,True,140,True,79.16,86.16,74,91
+INT0100,STU0275,2025-02-11,Email,No VLE Activity,True,92,True,70.21,86.95,53,60
+INT0101,STU0060,2025-02-26,SMS,No VLE Activity,False,,True,62.18,74.39,46,67
+INT0102,STU0088,2025-01-12,SMS,Declining Grades,False,,False,80.2,78.15,70,74
+INT0103,STU0374,2025-03-17,Email,Low Attendance,False,,True,61.31,65.35,40,58
+INT0104,STU0410,2025-02-05,Email,Low Attendance,True,136,True,58.74,72.98,34,53
+INT0105,STU0311,2025-02-20,In-Person Meeting,Declining Grades,True,31,True,74.86,84.97,44,58
+INT0106,STU0247,2025-02-15,Email,Low Attendance,True,135,False,81.38,77.37,46,44
+INT0107,STU0422,2025-03-01,Phone Call,Missed Deadline,False,,False,71.82,70.34,51,57
+INT0108,STU0305,2025-03-02,Phone Call,Missed Deadline,True,139,True,66.54,84.34,56,67
+INT0109,STU0422,2025-03-01,Email,No VLE Activity,True,116,True,71.82,77.88,51,56
+INT0110,STU0451,2025-01-06,Email,Declining Grades,True,115,True,67.38,77.47,42,46
+INT0111,STU0447,2025-02-19,Email,Missed Deadline,True,59,True,82.37,85.44,62,80
+INT0112,STU0349,2025-01-06,Email,Declining Grades,False,,False,77.3,71.05,52,49
+INT0113,STU0054,2025-02-14,Phone Call,No VLE Activity,False,,False,66.42,72.03,81,78
+INT0114,STU0045,2025-02-23,Email,No VLE Activity,True,101,True,67.03,70.42,52,60
+INT0115,STU0422,2025-02-14,SMS,Missed Deadline,False,,False,71.82,67.26,51,48
+INT0116,STU0012,2025-03-22,Phone Call,Declining Grades,True,139,True,66.94,79.86,49,68
+INT0117,STU0073,2024-12-27,Email,Low Attendance,False,,False,61.48,60.66,38,45
+INT0118,STU0362,2024-12-28,SMS,Missed Deadline,True,127,True,80.09,94.02,70,84
+INT0119,STU0038,2025-03-11,In-Person Meeting,Missed Deadline,True,139,True,67.28,77.67,69,78
+INT0120,STU0393,2025-02-09,Email,Declining Grades,True,89,True,63.62,67.15,43,60
+INT0121,STU0456,2025-02-13,Phone Call,Low Attendance,False,,False,38.58,43.94,25,23
+INT0122,STU0333,2025-03-11,SMS,Missed Deadline,True,16,True,60.88,65.45,52,64
+INT0123,STU0422,2025-03-12,SMS,No VLE Activity,False,,True,71.82,82.93,51,57
+INT0124,STU0193,2025-01-07,Email,No VLE Activity,False,,False,47.7,50.97,24,28
+INT0125,STU0063,2025-02-08,Email,No VLE Activity,True,30,False,64.35,56.87,41,34
+INT0126,STU0060,2025-02-23,Phone Call,Missed Deadline,True,118,True,62.18,76.43,46,65
+INT0127,STU0213,2025-02-10,Email,No VLE Activity,True,76,False,79.45,78.74,39,35
+INT0128,STU0109,2025-01-22,In-Person Meeting,Missed Deadline,True,137,True,67.62,83.92,47,63
+INT0129,STU0021,2025-01-19,Phone Call,Low Attendance,True,13,True,78.58,84.34,48,56
+INT0130,STU0049,2025-02-08,Email,No VLE Activity,True,167,False,61.89,63.5,67,68
+INT0131,STU0062,2025-03-17,Email,Declining Grades,True,165,True,54.58,71.51,34,55
+INT0132,STU0365,2025-03-06,SMS,Low Attendance,True,45,True,79.62,83.76,49,65
+INT0133,STU0387,2025-03-01,Email,No VLE Activity,True,112,True,60.43,76.49,31,41
+INT0134,STU0225,2025-03-22,SMS,No VLE Activity,True,139,True,83.76,90.65,68,86
+INT0135,STU0224,2024-12-27,In-Person Meeting,Missed Deadline,True,119,False,72.54,65.46,61,68
+INT0136,STU0333,2025-02-15,Phone Call,Low Attendance,False,,False,60.88,56.75,52,47
+INT0137,STU0329,2025-01-31,Phone Call,Missed Deadline,True,110,True,62.94,71.26,42,63
+INT0138,STU0322,2025-03-19,Phone Call,Low Attendance,True,122,True,65.8,78.59,35,48
+INT0139,STU0457,2025-03-04,Email,Missed Deadline,True,113,True,62.0,66.97,32,41
+INT0140,STU0157,2025-03-15,Email,Low Attendance,False,,False,81.01,74.8,73,73
+INT0141,STU0445,2025-02-28,Email,No VLE Activity,True,0,False,82.88,84.2,53,49
+INT0142,STU0247,2025-01-18,Email,Declining Grades,True,151,True,81.38,87.76,46,59
+INT0143,STU0177,2025-03-14,SMS,Declining Grades,True,23,False,52.88,54.1,39,38
+INT0144,STU0328,2024-12-31,Email,Low Attendance,False,,False,64.92,58.49,70,72
+INT0145,STU0174,2025-01-30,Email,Low Attendance,False,,False,79.42,84.18,46,38
+INT0146,STU0095,2024-12-30,In-Person Meeting,No VLE Activity,False,,False,65.63,66.43,56,57
+INT0147,STU0134,2025-03-05,Email,No VLE Activity,True,43,True,80.5,91.21,57,68
+INT0148,STU0329,2025-02-08,In-Person Meeting,No VLE Activity,False,,False,62.94,65.43,42,34
+INT0149,STU0478,2025-01-27,Email,Low Attendance,False,,False,47.01,47.51,42,44
+INT0150,STU0398,2025-03-22,Email,Missed Deadline,True,72,True,53.36,59.31,48,65
+INT0151,STU0045,2025-01-11,In-Person Meeting,Low Attendance,False,,False,67.03,67.19,52,55
+INT0152,STU0403,2025-02-04,Email,No VLE Activity,True,76,True,58.29,68.58,69,81
+INT0153,STU0197,2024-12-30,Phone Call,No VLE Activity,True,145,True,53.06,56.99,33,38
+INT0154,STU0392,2025-03-08,Phone Call,Declining Grades,False,,False,68.2,61.3,43,49
+INT0155,STU0442,2025-01-01,Phone Call,No VLE Activity,False,,False,95.64,92.93,68,72
+INT0156,STU0235,2025-02-12,Email,Declining Grades,True,28,True,72.12,89.67,56,68
+INT0157,STU0197,2024-12-31,Email,Missed Deadline,False,,False,53.06,53.94,33,39
+INT0158,STU0274,2025-01-12,In-Person Meeting,Declining Grades,False,,False,47.81,44.63,43,38
+INT0159,STU0397,2025-03-07,SMS,Missed Deadline,True,119,True,91.57,100.0,95,98
+INT0160,STU0486,2025-01-04,SMS,Missed Deadline,False,,False,57.09,57.76,58,66
+INT0161,STU0054,2025-03-17,In-Person Meeting,Low Attendance,True,23,True,66.42,72.6,81,84
+INT0162,STU0106,2025-03-13,Phone Call,Missed Deadline,True,7,True,68.86,80.96,52,64
+INT0163,STU0205,2025-03-05,Phone Call,Missed Deadline,False,,False,57.42,52.84,56,51
+INT0164,STU0054,2025-01-01,Email,No VLE Activity,True,41,True,66.42,81.27,81,86
+INT0165,STU0496,2025-02-12,Email,Missed Deadline,False,,False,57.79,61.26,40,38
+INT0166,STU0485,2025-01-06,Email,Missed Deadline,False,,False,88.89,85.48,84,87
+INT0167,STU0174,2025-02-23,Email,Missed Deadline,False,,True,79.42,88.39,46,49
+INT0168,STU0421,2025-03-04,In-Person Meeting,Missed Deadline,True,33,True,56.62,65.82,23,42
+INT0169,STU0077,2025-02-17,SMS,Missed Deadline,False,,True,85.17,100.0,77,83
+INT0170,STU0021,2025-02-07,Email,Low Attendance,False,,False,78.58,74.84,48,48
+INT0171,STU0425,2025-03-04,Phone Call,Declining Grades,True,24,True,71.79,85.72,34,50
+INT0172,STU0027,2025-02-27,SMS,Missed Deadline,True,59,False,62.56,67.55,54,57
+INT0173,STU0289,2025-03-08,Email,No VLE Activity,True,25,False,63.25,62.21,39,47
+INT0174,STU0073,2025-03-20,Email,No VLE Activity,False,,False,61.48,58.18,38,34
+INT0175,STU0315,2025-02-23,SMS,Missed Deadline,True,148,False,64.03,61.84,48,52
+INT0176,STU0462,2025-03-01,Email,Low Attendance,True,112,False,60.05,58.67,41,37
+INT0177,STU0412,2025-01-11,Phone Call,Missed Deadline,True,112,False,60.13,53.46,46,41
+INT0178,STU0022,2025-02-13,SMS,Declining Grades,False,,False,70.68,69.3,47,49
+INT0179,STU0421,2025-03-13,Phone Call,Declining Grades,False,,False,56.62,59.41,23,16
+INT0180,STU0190,2025-03-04,In-Person Meeting,Low Attendance,True,96,False,79.52,77.87,49,44
+INT0181,STU0132,2025-03-14,In-Person Meeting,Low Attendance,True,25,True,79.09,94.15,54,62
+INT0182,STU0494,2025-02-23,Email,Missed Deadline,True,47,False,92.99,96.38,86,83
+INT0183,STU0484,2025-01-03,SMS,Low Attendance,False,,False,83.18,77.57,54,47
+INT0184,STU0012,2025-02-25,Email,No VLE Activity,False,,False,66.94,67.85,49,42
+INT0185,STU0070,2024-12-22,Email,No VLE Activity,True,63,True,57.37,68.48,55,76
+INT0186,STU0415,2025-02-13,In-Person Meeting,No VLE Activity,True,144,True,67.18,74.32,50,71
+INT0187,STU0330,2025-01-17,In-Person Meeting,Declining Grades,True,36,True,82.68,93.45,70,87
+INT0188,STU0308,2025-01-22,SMS,No VLE Activity,False,,False,57.44,62.14,43,37
+INT0189,STU0220,2025-02-19,SMS,No VLE Activity,True,104,True,95.24,100.0,100,100
+INT0190,STU0100,2025-01-27,In-Person Meeting,Low Attendance,True,101,False,77.02,80.34,62,59
+INT0191,STU0152,2025-01-18,In-Person Meeting,Low Attendance,True,21,False,77.18,76.52,41,49
+INT0192,STU0374,2025-01-26,Phone Call,Declining Grades,False,,True,61.31,73.53,40,59
+INT0193,STU0376,2025-03-14,SMS,No VLE Activity,True,42,False,69.07,71.46,57,63
+INT0194,STU0245,2025-03-03,Email,Low Attendance,False,,True,86.27,91.23,77,84
+INT0195,STU0025,2025-02-14,Email,Low Attendance,False,,False,86.86,86.39,74,69
+INT0196,STU0497,2025-02-09,Phone Call,Missed Deadline,True,44,True,55.52,63.52,37,51
+INT0197,STU0093,2025-02-22,SMS,Missed Deadline,True,158,True,80.32,97.3,68,82
+INT0198,STU0496,2025-01-10,Email,No VLE Activity,False,,False,57.79,62.58,40,41
+INT0199,STU0167,2024-12-28,Email,Low Attendance,False,,False,66.58,59.72,65,60
+INT0200,STU0123,2025-02-02,Email,Low Attendance,True,29,True,76.2,90.03,33,38
+INT0201,STU0172,2024-12-23,Email,Declining Grades,True,21,True,71.85,85.17,75,83
+INT0202,STU0289,2025-03-03,Email,Low Attendance,True,56,True,63.25,69.9,39,43
+INT0203,STU0031,2025-02-26,Email,Missed Deadline,True,133,False,87.84,84.96,86,80
+INT0204,STU0480,2024-12-27,Email,Declining Grades,False,,False,67.97,67.36,29,24
+INT0205,STU0135,2025-03-09,SMS,No VLE Activity,False,,True,85.86,96.73,74,81
+INT0206,STU0095,2025-01-19,Phone Call,Low Attendance,False,,False,65.63,67.34,56,62
+INT0207,STU0051,2024-12-30,SMS,Missed Deadline,True,71,False,44.07,47.36,29,22
+INT0208,STU0406,2025-02-16,In-Person Meeting,Missed Deadline,False,,False,75.33,71.11,64,64
+INT0209,STU0315,2025-01-04,In-Person Meeting,Declining Grades,False,,False,64.03,67.53,48,51
+INT0210,STU0289,2025-02-03,In-Person Meeting,Declining Grades,True,89,False,63.25,65.07,39,35
+INT0211,STU0398,2025-03-05,SMS,Declining Grades,True,77,True,53.36,61.05,48,56
+INT0212,STU0328,2025-03-21,Email,Declining Grades,True,117,False,64.92,65.74,70,67
+INT0213,STU0412,2025-02-03,In-Person Meeting,No VLE Activity,True,62,False,60.13,59.63,46,43
+INT0214,STU0308,2025-02-27,Phone Call,No VLE Activity,True,44,False,57.44,61.8,43,49
+INT0215,STU0124,2025-03-09,SMS,No VLE Activity,False,,False,70.55,69.85,42,41
+INT0216,STU0308,2025-01-24,Email,No VLE Activity,True,66,True,57.44,65.19,43,59
+INT0217,STU0396,2025-03-20,SMS,Declining Grades,True,38,True,65.77,77.91,46,49
+INT0218,STU0209,2025-03-14,Phone Call,No VLE Activity,False,,False,80.25,81.68,65,68
+INT0219,STU0264,2025-01-05,Email,Low Attendance,False,,False,57.81,56.32,75,80
+INT0220,STU0060,2025-03-14,Phone Call,Low Attendance,False,,False,62.18,61.63,46,43
+INT0221,STU0471,2025-03-19,SMS,No VLE Activity,False,,False,70.33,68.45,49,55
+INT0222,STU0057,2025-02-04,SMS,No VLE Activity,False,,False,68.85,60.4,50,43
+INT0223,STU0189,2025-03-12,Phone Call,No VLE Activity,False,,False,91.88,90.06,68,63
+INT0224,STU0311,2025-02-26,Email,Declining Grades,False,,False,74.86,78.74,44,39
+INT0225,STU0096,2025-01-03,SMS,Low Attendance,True,140,True,63.19,68.55,43,57
+INT0226,STU0062,2025-02-16,Email,No VLE Activity,False,,False,54.58,57.2,34,33
+INT0227,STU0448,2025-02-19,Email,Declining Grades,True,162,False,77.81,86.53,64,60
+INT0228,STU0422,2025-03-05,SMS,Declining Grades,True,59,True,71.82,89.68,51,63
+INT0229,STU0450,2024-12-30,In-Person Meeting,Low Attendance,False,,False,88.09,92.35,73,68
+INT0230,STU0086,2025-02-08,Email,Missed Deadline,True,79,True,99.11,100.0,76,89
+INT0231,STU0272,2025-02-04,Email,Low Attendance,True,158,True,83.46,93.3,91,100
+INT0232,STU0183,2025-02-14,In-Person Meeting,Low Attendance,True,158,True,94.97,98.96,72,93
+INT0233,STU0289,2025-02-20,In-Person Meeting,Declining Grades,True,127,True,63.25,81.19,39,56
+INT0234,STU0345,2024-12-26,Email,Missed Deadline,False,,False,72.03,68.98,56,63
+INT0235,STU0289,2025-01-01,Phone Call,Missed Deadline,True,81,True,63.25,76.64,39,58
+INT0236,STU0392,2025-01-12,Email,Declining Grades,True,119,True,68.2,83.07,43,61
+INT0237,STU0406,2025-01-01,SMS,No VLE Activity,False,,False,75.33,76.11,64,64
+INT0238,STU0417,2025-02-18,Email,Declining Grades,True,60,True,70.83,87.78,45,62
+INT0239,STU0311,2025-01-02,SMS,Declining Grades,False,,False,74.86,79.05,44,50
+INT0240,STU0111,2025-01-09,Phone Call,Low Attendance,True,49,True,64.53,70.08,59,78
+INT0241,STU0412,2025-02-09,In-Person Meeting,No VLE Activity,False,,False,60.13,59.4,46,40
+INT0242,STU0404,2025-02-26,Email,No VLE Activity,True,23,False,93.27,91.76,66,74
+INT0243,STU0166,2025-03-22,SMS,No VLE Activity,True,61,True,95.8,100.0,75,92
+INT0244,STU0247,2025-02-18,SMS,Missed Deadline,False,,False,81.38,77.48,46,41
+INT0245,STU0020,2025-02-13,In-Person Meeting,No VLE Activity,False,,False,98.19,97.53,84,81
+INT0246,STU0225,2025-01-15,Phone Call,No VLE Activity,True,154,True,83.76,92.27,68,78
+INT0247,STU0384,2025-01-18,Email,Low Attendance,True,120,True,77.04,85.6,49,57
+INT0248,STU0261,2025-02-03,Phone Call,Declining Grades,True,59,True,71.43,81.59,68,84

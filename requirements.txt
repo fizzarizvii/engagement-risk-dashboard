@@ -1,0 +1,3 @@
+# Root requirements for Streamlit Community Cloud (pip install -r requirements.txt).
+# App entry: dashboard/app.py
+-r dashboard/requirements.txt

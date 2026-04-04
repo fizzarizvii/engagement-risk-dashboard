@@ -1,0 +1,16 @@
+# Light theme aligned with University of Chester web palette (chester.ac.uk main.css):
+# primary red #E2231A, charcoal text #2E2E27, borders #E6E6E6, accent yellow #F4C023
+
+[theme]
+primaryColor = "#E2231A"
+backgroundColor = "#FFFFFF"
+secondaryBackgroundColor = "#F7F7F6"
+textColor = "#2E2E27"
+font = "sans serif"
+
+[browser]
+gatherUsageStats = false
+
+[server]
+# false = open default browser to Local URL when you run `streamlit run` (local dev)
+headless = false

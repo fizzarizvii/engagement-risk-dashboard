@@ -1,0 +1,34 @@
+RISK SCORING ALGORITHM VALIDATION REPORT (composite v2)
+
+Dataset: C:/Research/Nabeel Ahmed/data/students_data.csv
+Validation Date: 2026-04-03 15:44:43
+Total Students: 500
+
+ACCURACY METRICS:
+
+Exact Matches: 500/500 (100.0%)
+Close Matches (within 5 points, excluding exact): 0/500 (0.0%)
+Within 5 points (including exact): 500/500 (100.0%)
+Mismatches (difference > 5): 0/500 (0.0%)
+
+Overall Accuracy (within 5 points): 100.0%
+
+SCORE DISTRIBUTION (Recalculated):
+
+Low Risk (0-33): 308 students
+Medium Risk (34-66): 170 students
+High Risk (67-100): 22 students
+
+SCORE DISTRIBUTION (Original Dataset):
+
+Low Risk: 308 students
+Medium Risk: 170 students
+High Risk: 22 students
+
+MISMATCH DETAILS:
+
+None — all students within 5 points of stored scores.
+
+CONCLUSION:
+
+Composite v2 blends multi-metric stresses with intervention history. Exact recalculation should match the stored CSV if the dataset was generated with the same script and seed.
