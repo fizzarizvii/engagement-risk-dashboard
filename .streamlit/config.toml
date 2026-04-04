@@ -1,0 +1,15 @@
+# Used when the app runs from repo root on Streamlit Cloud (cwd = project root).
+# Keeps Chester theme; server is headless on the host (users still use the browser).
+
+[theme]
+primaryColor = "#E2231A"
+backgroundColor = "#FFFFFF"
+secondaryBackgroundColor = "#F7F7F6"
+textColor = "#2E2E27"
+font = "sans serif"
+
+[browser]
+gatherUsageStats = false
+
+[server]
+headless = true
