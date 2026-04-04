@@ -12,4 +12,7 @@ font = "sans serif"
 gatherUsageStats = false
 
 [server]
+# Do NOT set headless=false here: on Streamlit Cloud, cwd is repo root and this file
+# overrides root .streamlit so headless=false breaks deploy (email prompt / healthz).
+# Windows default headless is already false (browser opens). Cloud: use root config + Linux default.
 showEmailPrompt = false

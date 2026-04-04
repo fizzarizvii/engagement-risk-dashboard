@@ -13,3 +13,4 @@ gatherUsageStats = false
 
 [server]
 headless = true
+showEmailPrompt = false
